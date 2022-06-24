@@ -5,7 +5,7 @@
 //2. Require dependencies in server.js
 
 //3. Declare variables
-npm
+
 //4. Connect to mongoDB - add connection string to .env file 
 
 //5. create port
