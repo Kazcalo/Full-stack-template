@@ -1,12 +1,12 @@
 //1. Create server.js file
 // Initialize npm and install dependencies
-// express, dotenv, cors, mongodb, ejs, nodemon, (--save-dev)
+// express, dotenv, cors, mongodb, ejs, nodemon, (--save-dev) insert "dev": "nodemon server.js" in package.json file in scripts. run with: npm run dev
 
 //2. Require dependencies in server.js
 
 //3. Declare variables
 
-//4. Connect to mongoDB - add connection string to .env file 
+//4. Connect to mongoDB - add connection string to .env file add env to gitignore flie
 
 //5. create port
 
@@ -31,3 +31,6 @@
 
 npm init ; npm install express ;npm install dotenv ; npm install cors; npm install mongodb; npm install ejs;npm install nodemon --save-dev
 
+
+run server with nodeserver.js (have to costantly stop and start)
+run nodemon (dynamycly/automaticaly )
