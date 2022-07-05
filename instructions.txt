@@ -37,3 +37,4 @@ npm init ; npm install express ;npm install dotenv ; npm install cors; npm insta
 
 run server with nodeserver.js (have to costantly stop and start)
 run nodemon (dynamycly/automaticaly )
+hello
