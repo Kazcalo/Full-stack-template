@@ -5,6 +5,7 @@
 //2. Require dependencies in server.js
 
 //3. Declare variables
+     Create gitignore file and push to github
 
 //4. Connect to mongoDB - add connection string to .env file add env to gitignore flie
 
@@ -14,11 +15,11 @@
 
 //6. Set middleware
 
-//7. Create gitignore file
+//7.
 
 //8. Create public view folders - add main.js and style.css to public and index.ejs to views
 
-//9. From root, init local repo and commit
+//9. add content to main.js, style.css, index.ejs
 
 //10. Create heroku repo 
 
@@ -28,6 +29,8 @@
 // echo "web: node server.js" > procfile
 // git add .
 // git commit -m "changes"
+
+//-----------Test Heroku Link
 
 npm init ; npm install express ;npm install dotenv ; npm install cors; npm install mongodb; npm install ejs;npm install nodemon --save-dev
 
